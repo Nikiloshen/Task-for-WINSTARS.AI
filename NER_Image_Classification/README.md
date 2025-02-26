@@ -33,6 +33,7 @@ python train_ner.py --dataset_path ./ner_data --output_dir ./ner_model
 python train_image_classifier.py --data_dir ./animals-10 --output_dir ./image_model
 
 **Run pipeline:**
+
 python pipeline.py "There is a cat in the picture" ./path/to/image.jpg
 
 ## Installation
