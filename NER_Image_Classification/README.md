@@ -24,21 +24,16 @@ A combined NLP and Computer Vision pipeline that:
 Generate NER dataset:
 
 ```bash
-python generate_NER_data.py```
+python generate_NER_data.py
 **Train models:**
 
 # Train NER model
-
-```bash
 python train_ner.py --dataset_path ./ner_data --output_dir ./ner_model
 
 # Train image classifier
-
-```bash
 python train_image_classifier.py --data_dir ./animals-10 --output_dir ./image_model
 **Run pipeline:**
 
-```bash
 python pipeline.py "There is a cat in the picture" ./path/to/image.jpg
 ## Installation
 
