@@ -24,7 +24,7 @@ A combined NLP and Computer Vision pipeline that:
 Generate NER dataset:
 
 ```bash
-python generate_NER_data.py
+python generate_NER_data.py```
 **Train models:**
 
 # Train NER model
