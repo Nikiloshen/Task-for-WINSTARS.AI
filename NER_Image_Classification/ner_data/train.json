@@ -1,0 +1,13050 @@
+[
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterflies",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chicken",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cat",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "butterfly",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horses",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "squirrel",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "spiders",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spiders",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cows",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "chickens",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cat",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "spiders",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "squirrel"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "spiders",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cats",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "squirrels",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chicken",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "spiders",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cat",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cows",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephant",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "chickens",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cow",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horse",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrels",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "squirrel",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "squirrel",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "dogs",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spider",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chicken",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "horses",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "sheep",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "sheep",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "spiders",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "spider",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cat",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "horses",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "dog",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "squirrel"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "elephants",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephant",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "sheep",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spiders",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "squirrel",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cow",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "elephant",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cows",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "spiders",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "chicken",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "horse",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "horse",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "horses",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cat",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dogs",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "sheep",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chickens",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "squirrel",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chickens",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "squirrels",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dogs",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "elephants",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "elephants",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephants",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cows",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chickens",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cows",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cats",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterflies",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "sheep",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "squirrel",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "horse",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "horses",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "horses",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cats",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterflies",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cows",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "butterfly",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "butterfly",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "sheep",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "sheep",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cat",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "chicken",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "sheep",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "squirrels",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephants",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "horses",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "squirrel",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterfly",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephants",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "butterflies",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "chickens",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cats",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cat",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "squirrels",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horse",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cats",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cats",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "dog",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephants",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "squirrels",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cats",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephant",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephant",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "horse",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "sheep",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "spiders",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "chickens",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cat",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "horse",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horse",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chicken",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cows",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "dogs",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "dogs",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cow",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "spiders",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cats",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dogs",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "chicken",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cows",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cat",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterflies",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "elephant",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spiders",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chicken",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "spiders",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "horses",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "dog",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "dogs",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "dogs",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "butterflies",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "sheep",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterflies",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephants",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cows",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "squirrel",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "spiders",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "dogs",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "squirrel",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cats",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "dogs",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterfly",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cat",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cows",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "squirrel",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chicken",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dog",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "sheep",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "squirrel",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "chickens",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephant",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "squirrel",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephant",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "horses",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "sheep",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dogs",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cat",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cows",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "butterflies",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephants",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cats",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chicken",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "horses",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cows",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "elephant",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "squirrel"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "horses",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "squirrels",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cows",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "chickens",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spider",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cows",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dogs",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "elephant",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "butterflies",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "dogs",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "squirrel",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chickens",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cow",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "sheep",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "squirrel",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "butterfly",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cat",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cows",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dog",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "chickens",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "sheep",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cats",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cows",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horse",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "squirrels",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "horses",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cats",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "sheep",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "elephants",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cows",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chicken",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterflies",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cat",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephant",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "sheep",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chicken",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "horse",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "horse",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cats",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horses",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cows",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterfly",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spiders",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cats",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "squirrel"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "butterfly",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "elephants",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cow",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "squirrel",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "chickens",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cow",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "butterflies",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cats",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "horses",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spiders",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrels",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "chicken",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cows",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "chickens",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "squirrel",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "sheep",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "sheep",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "horses",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "sheep",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterflies",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "squirrel",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "butterfly",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spiders",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "spiders"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "butterflies",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "squirrels",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "spiders",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chickens",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "butterflies",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "spiders",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "horses",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cows",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "horses",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "dog",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "dogs",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horses",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horses",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "chickens",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "dogs",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "butterflies",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "horse",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "chickens",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cats",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cats",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "squirrels",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "spiders",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "dog",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cows",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cow",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "butterflies",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "sheep",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "spiders",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dogs",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "butterflies",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "elephant"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "sheep",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "horse",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "horse",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "cows",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "elephants",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "chickens",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cats",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephants",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "chicken",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "horse",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cow",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephant",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "elephant",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "butterflies",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "sheep",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "sheep",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "dogs",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "sheep",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "sheep",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephants",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cow",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dogs",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "butterflies",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "spiders",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "elephant",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "horses",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "sheep",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "spiders",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "chickens",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "sheep",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spiders",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "squirrel",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "sheep",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "spiders",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "butterflies",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "butterflies",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "chickens",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "horses",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "horses",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cow",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "dogs",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "dogs",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chicken",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "horses",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "squirrels",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cows",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "sheep",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephants",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cows",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "sheep",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "squirrels",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cats",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "elephants"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "horses",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "elephants",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "elephants",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cows",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "elephant",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephant",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "spider"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cats",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dogs",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cows",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterfly",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horses",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "chickens",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "squirrel"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chicken"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "butterfly",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterfly",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "sheep",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "butterfly",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "spiders",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "squirrel",
+      "here"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "squirrels",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "elephants",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "spiders",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "horses",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "chicken",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cats",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "chickens",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "horse",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "cats",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "sheep",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "squirrels"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "dogs",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "elephants",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cats",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dog",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "elephants",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "elephants",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cow",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "elephants",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "cat",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "chickens",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "this",
+      "horse",
+      "!"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "sheep"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "butterflies"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "sheep",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cats",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "butterfly"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "dogs",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "cow"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "No",
+      "doubt",
+      "this",
+      "is",
+      "a",
+      "horse"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "This",
+      "is",
+      "clearly",
+      "a",
+      "dog"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "butterflies",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "butterflies",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dog",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "horses",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cows",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "squirrel",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cats",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "picture",
+      "contains",
+      "a",
+      "horses"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cows",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Several",
+      "horses",
+      "nearby"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "squirrels",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "cows",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cats"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "chickens",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "butterfly",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Multiple",
+      "cats",
+      "visible"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "cats",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "These",
+      "horses",
+      "are",
+      "beautiful"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "cows"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "sheep",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "dog",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "dogs"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "spider",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "squirrels",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "found",
+      "a",
+      "cows",
+      "in",
+      "the",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dog",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "see",
+      "a",
+      "butterflies",
+      "in",
+      "this",
+      "image"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "appears",
+      "in",
+      "the",
+      "photo"
+    ],
+    "ner_tags": [
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dog",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "sheep",
+      "in",
+      "its",
+      "habitat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "Can",
+      "you",
+      "spot",
+      "the",
+      "dogs",
+      "?"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL",
+      "O"
+    ]
+  },
+  {
+    "tokens": [
+      "That",
+      "'s",
+      "definitely",
+      "a",
+      "cat"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "group",
+      "of",
+      "chickens"
+    ],
+    "ner_tags": [
+      "O",
+      "O",
+      "O",
+      "B-ANIMAL"
+    ]
+  }
+]
