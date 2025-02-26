@@ -20,7 +20,7 @@ A combined NLP and Computer Vision pipeline that:
 
 **Image Classifier:** 20 epochs, ResNet-18, learning rate 0.001
 
-## Usage
+## How to use
 Generate NER dataset:
 
 python generate_NER_data.py
